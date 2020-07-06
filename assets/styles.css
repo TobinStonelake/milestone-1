@@ -1,0 +1,64 @@
+/* Colors */
+
+.text-color-logo {
+    color:  #d37a31;
+    font-family: 'Roboto Slab', serif;
+}
+
+.text-color {
+    color:  #d37a31;
+    font-family: 'Muli', sans-serif;
+}
+
+/* Nav Bar */
+
+.nav-bar-style {
+    justify-content: center;
+    color:  #d37a31;
+    background-color: #414040;
+    height: 300;
+    font-family: 'Roboto Slab', serif;
+    }
+
+.nav-bar-style a {
+    color:  #d37a31;
+}
+
+.btn-outline-light {
+    color: #d37a31;
+    background-color: transparent;
+    background-image: none;
+    border-color: #d37a31;
+}
+
+.dropdown-menu {
+    color: #d37a31;
+    background-color: #414040;
+    }
+
+/* Sections */
+
+.logo {
+    margin: 60px;
+}
+
+.intro {
+    margin: 60px;
+}
+
+
+
+
+/* Media Queries */
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
